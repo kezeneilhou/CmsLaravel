@@ -1,5 +1,5 @@
 {
-    "name": "kezeneilhou/CmsLaravel",
+    "name": "kezeneilhou/cms-laravel",
     "description": "Laravel Content Management System",
     "autoload": {
         "psr-4": {
