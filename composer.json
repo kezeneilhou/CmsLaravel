@@ -1,6 +1,7 @@
 {
     "name": "kezeneilhou/cms-laravel",
     "description": "Laravel Content Management System",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Kezeneilhou\\CmsLaravel\\": "src/"
