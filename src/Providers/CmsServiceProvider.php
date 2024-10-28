@@ -17,6 +17,7 @@ class CmsServiceProvider extends ServiceProvider
             __DIR__ . '/../resources/views' => resource_path('views'),
             __DIR__ . '/../database/migrations' => database_path('migrations'),
             __DIR__.'/../controllers' => app_path('Http/Controllers'),
+            __DIR__.'/../Models' => app_path('Models'),
             ],'laravel-cms');
     }
 
