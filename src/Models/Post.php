@@ -1,6 +1,6 @@
 <?php
 
-namespace Bm\Cms\Models;
+namespace Kezeneilhou\CmsLaravel\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;

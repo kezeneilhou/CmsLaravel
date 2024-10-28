@@ -1,5 +1,5 @@
 <?php
-namespace Bm\Cms;
+namespace Kezeneilhou\CmsLaravel;
 
 use Illuminate\Support\ServiceProvider;
 

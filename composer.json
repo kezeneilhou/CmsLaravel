@@ -1,9 +1,9 @@
 {
-    "name": "bm/cms",
+    "name": "kezeneilhou/CmsLaravel",
     "description": "Laravel Content Management System",
     "autoload": {
         "psr-4": {
-            "Bm\\Cms\\": "src/"
+            "Kezeneilhou\\CmsLaravel\\": "src/"
         }
     },
     "authors": [
@@ -18,7 +18,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Bm\\Cms\\CmsServiceProvider"
+                "Kezeneilhou\\CmsLaravel\\CmsServiceProvider"
             ]
         }
     }

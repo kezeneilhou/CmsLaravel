@@ -1,6 +1,6 @@
 <?php
 
-namespace Bm\Cms\Controllers;
+namespace Kezeneilhou\CmsLaravel\Controllers;
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Storage;

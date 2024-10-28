@@ -1,6 +1,6 @@
 <?php
 
-namespace Bm\Cms\Controllers;
+namespace Kezeneilhou\CmsLaravel\Controllers;
 
 use App\Models\Post;
 use Illuminate\Http\Request;
