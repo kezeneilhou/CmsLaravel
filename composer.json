@@ -7,6 +7,11 @@
             "Kezeneilhou\\CmsLaravel\\": "src/"
         }
     },
+    "scripts": {
+        "post-autoload-dump": [
+            "php fix-namespace.php"
+        ]
+    },
     "authors": [
         {
             "name": "Kezeneilhou Mhasi"
