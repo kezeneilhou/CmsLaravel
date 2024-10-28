@@ -11,9 +11,6 @@
             "name": "Kezeneilhou Mhasi"
         }
     ],
-   "require": {
-        "laravel/framework": "^8.0|^9.0|^10.0 | ^11.0"
-    },
     "extra": {
         "laravel": {
             "providers": [
