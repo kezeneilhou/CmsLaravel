@@ -1,0 +1,25 @@
+{
+    "name": "bm/cms",
+    "description": "Laravel Content Management System",
+    "autoload": {
+        "psr-4": {
+            "Bm\\Cms\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kezeneilhou Mhasi"
+        }
+    ],
+   "require": {
+        "php": "^8.0",
+        "illuminate/support": "^10.0"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Bm\\Cms\\CmsServiceProvider"
+            ]
+        }
+    }
+}
